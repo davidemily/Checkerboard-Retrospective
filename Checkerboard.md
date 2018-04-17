@@ -7,7 +7,9 @@ The code for the checkerboard was difficult for me. I spent a year away from pro
 
 For the most part, my code matched that of the solution. There were some small changes in the methods of the Checkerboard and Controller class. 
 
-Solution Checkerboard: ![alt text] 
+Solution Checkerboard: ![alt text](https://github.com/davidemily/Checkerboard-Retrospective/blob/master/daleCheckerboard.PNG)
+
+And then my checkerboard: ![alt text](https://github.com/davidemily/Checkerboard-Retrospective/blob/master/davidCheckerboard.PNG)
 
 #### How well did you understand the programming concepts and foundational knowledge needed to complete the challenge?
 --- 
