@@ -27,8 +27,11 @@ I met all of the requirements in the challenge. The animation of my board during
 --- 
 My solution is very similar to the posted solution. While the main parts of the skeleton were the same, I handled calculations in different methods than the posted solution did. For example:
 Solution: ![alt text](https://github.com/davidemily/Checkerboard-Retrospective/blob/master/daleSelectSize.PNG)
+
 vs
+
 My checkerboard: ![alt text](https://github.com/davidemily/Checkerboard-Retrospective/blob/master/davidSelectSize.PNG)
-The original solution is much cleaner and efficient than the solution I went with.
+The original solution is much cleaner and efficient than the solution I went with. In the solution the information was passed to the renderBoard() method where I handled in the calculation inside the method. Ideally I would have modulated this more like the posted solution.
 #### How could you improve going foward? What don't you still understand that was required for the challenge?
 --- 
+I plan on reviewing more the differences between the posted solution and my solution. I need to focus more on separating my code and creating methods to handle the calculations. I also need to do more OO programming as I sometimes felt I was lost while programming a project like this. While I had the idea in my head, I didn't quite know how to implement in it in Java or use OO principles.
