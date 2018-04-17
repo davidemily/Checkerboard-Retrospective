@@ -11,11 +11,24 @@ Solution Checkerboard: ![alt text](https://github.com/davidemily/Checkerboard-Re
 
 And then my checkerboard: ![alt text](https://github.com/davidemily/Checkerboard-Retrospective/blob/master/davidCheckerboard.PNG)
 
+Very similar except for the slight changes in where the size of the pane is calculated.
+
+The hardest part of the project for me, was finding out how to do the calculations on the changing pane size due to the user dragging the pane. I also had some issues that when the number of rectangles changed, the title bar would be covered up. After figuring out a solution to these, the rest of the time was spent coding in the logic for the colors.
+
 #### How well did you understand the programming concepts and foundational knowledge needed to complete the challenge?
 --- 
+I was rusty at FXML and Java at the beginning of the assignment which made this difficult. Sitting down and working out the solution through trial and error definitely helped. The concepts of how to do it didn't seem too difficult, it was just implementing the solution into code that caused me grief.
+
 #### How well did you meet the requirements as set out in the challenge? What requirements did you not meet correctly?
 --- 
+I met all of the requirements in the challenge. The animation of my board during a size change does not match the way the solution looks but still meets the requirements.
+
 #### How well does your solution match the posted solution? What is different?
 --- 
+My solution is very similar to the posted solution. While the main parts of the skeleton were the same, I handled calculations in different methods than the posted solution did. For example:
+Solution: ![alt text](https://github.com/davidemily/Checkerboard-Retrospective/blob/master/daleSelectSize.PNG)
+vs
+My checkerboard: ![alt text](https://github.com/davidemily/Checkerboard-Retrospective/blob/master/davidSelectSize.PNG)
+The original solution is much cleaner and efficient than the solution I went with.
 #### How could you improve going foward? What don't you still understand that was required for the challenge?
 --- 
